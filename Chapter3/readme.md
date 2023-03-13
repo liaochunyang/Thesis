@@ -1,1 +1,3 @@
-Numerical Experiments in Chapter 3
+# Chapter 3
+
+This folder contains numerical illustrations in Chapter 3.
