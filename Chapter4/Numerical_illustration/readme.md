@@ -1,4 +1,4 @@
-Numerical illustration in Chapter 4.
+# Numerical illustration in Chapter 4.
 
 Section 4.2: Local optimal recovery in complex finite-dimensional Hilbert space
 
